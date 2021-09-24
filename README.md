@@ -19,6 +19,10 @@
     </a>
 </p>
 
+<p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greigac&layout=compact&theme=light&hide_langs_below=1" />
+</p>
+
 
 - 👋 Hi, I’m @greigac
 - 👀 I’m interested in web technologies 
