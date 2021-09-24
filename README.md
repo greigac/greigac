@@ -30,7 +30,7 @@ While I am waiting to start my Master's (most likely Web Technologies), I am con
 that lack digital skills with providing technical support. I also follow esports such as WoW (Druid / Hunter main in top 1% percentile) and SSBM. Because of sites such as Warcraftlogs, I've taken a keen interest in Data Analytics.
 
 <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?greigac={greigac}&theme=blue-green" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?greigac={username}&theme=blue-green" />
 </p>
 
 <h2 align="left">
