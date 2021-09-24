@@ -19,10 +19,6 @@
     </a>
 </p>
 
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greigac&layout=compact&theme=light&hide_langs_below=1" />
-</p>
-
 > Hi! I'm Greig Colliar, a Honours Degree Computing graduate from University of the Highlands and Islands.
 While I am waiting to start my Master's (most likely Web Technologies), I am constantly learning new languages / frameworks while continuing to improve on things I know. 
 
