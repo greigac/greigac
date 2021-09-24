@@ -14,7 +14,7 @@
     <a href="https://www.hackerrank.com/">
         <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/hackerrank1.png">
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/greigac/greigac/blob/main/cv/Creig-Colliar-Curriculum-Vitae.md">
+    <a href="https://github.com/greigac/greigac/blob/main/cv/Greig-Colliar-Curriculum-Vitae.md">
         <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/cv1.png">
     </a>
 </p>
