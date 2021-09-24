@@ -19,15 +19,15 @@
     </a>
 </p>
 
+<p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greigac&layout=compact&theme=dark&hide_langs_below=1" />
+</p>
+
 > Hi! I'm Greig Colliar, a Honours Degree Computing graduate from University of the Highlands and Islands.
 While I am waiting to start my Master's (most likely Web Technologies), I am constantly learning new languages / frameworks while continuing to improve on things I know. 
 
 > In my free time, which I try to use as much as possible for programming/college work, I volunteer helping people 
 that lack digital skills with providing technical support. I also follow esports such as WoW (Druid / Hunter main in top 1% percentile) and SSBM. Because of sites such as Warcraftlogs, I've taken a keen interest in Data Analytics.
-
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username={greigac}&theme=blue-green" />
-</p>
 
 <h2 align="left">
     🌱 Projects I am Currently Working On 
