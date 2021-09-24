@@ -106,7 +106,7 @@ that lack digital skills with providing technical support. I also follow esports
 </table>
 
 <h2 align="left">
-    👩‍💻 Learning Constantly
+    📝 Learning Constantly
 </h2>
 
 <p align="center">
