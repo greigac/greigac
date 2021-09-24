@@ -1,3 +1,24 @@
+# [![Greig Colliar | GitHub Banner](https://raw.githubusercontent.com/greigac/greigac/main/imgs/gclogo01.png)](https://www.linkedin.com/in/greigcolliar/)
+
+<p align="center">
+    <a href="https://greigac.github.io/">
+        <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/website1.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/greigcolliar/">
+        <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/linkedin1.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.twitter.com/">
+        <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/twitter1.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/">
+        <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/hackerrank1.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/greigac/greigac/blob/main/cv/Creig-Colliar-Curriculum-Vitae.md">
+        <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/cv1.png">
+    </a>
+</p>
+
+
 - 👋 Hi, I’m @greigac
 - 👀 I’m interested in web technologies 
 - 🌱 I’m currently learning web development
