@@ -24,12 +24,10 @@
 </p>
 
 > Hi! I'm Greig Colliar, a Honours Degree Computing graduate from University of the Highlands and Islands.
-While I am waiting to start my Master's in a computing related field (most likely Web Technologies), I am 
-constantly learning new languages and technologies while continuing to improve on things I know. I have experience
-from front-end, to back-end and databases. 
+While I am waiting to start my Master's (most likely Web Technologies), I am constantly learning new languages / technologies while continuing to improve on things I know. I have experience from front-end, to back-end, and databases. 
 
 > In my free time, which I try to use as much as possible for programming/college work, I volunteer helping people 
-that lack digital skills with providing technical support. I also follow esports such as WoW (Druid / Hunter main in top 1% percentile) and SSBM. 
+that lack digital skills with providing technical support. I also follow esports such as WoW (Druid / Hunter main in top 1% percentile) and SSBM. Because of sites such as Warcraftlogs, I've taken a keen interest in Data Analytics.
 
 - 👋 Hi, I’m @greigac
 - 👀 I’m interested in web technologies 
