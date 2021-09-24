@@ -1,4 +1,4 @@
-<div align="center">
+#<p align="center">
 # [![Greig Colliar | GitHub Banner](https://raw.githubusercontent.com/greigac/greigac/main/imgs/gclogo01.png)](https://www.linkedin.com/in/greigcolliar/)
 </div>
 
