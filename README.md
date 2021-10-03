@@ -8,12 +8,12 @@
     <a href="https://www.linkedin.com/in/greigcolliar/">
         <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/linkedin1.png">
     </a>&nbsp;&nbsp;
-    <a href="https://www.twitter.com/">
+    <!-- <a href="https://www.twitter.com/">
         <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/twitter1.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/">
+    </a>&nbsp;&nbsp; -->
+    <!-- <a href="https://www.hackerrank.com/">
         <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/hackerrank1.png">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp; -->
     <a href="https://github.com/greigac/greigac/blob/main/cv/Greig-Colliar-Curriculum-Vitae.md">
         <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/cv1.png">
     </a>
