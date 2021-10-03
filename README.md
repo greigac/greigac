@@ -1,5 +1,5 @@
 
-# [![Greig Colliar | GitHub Banner](https://raw.githubusercontent.com/greigac/greigac/main/imgs/gclogo01.png)](https://www.linkedin.com/in/greigcolliar/)
+<!-- # [![Greig Colliar | GitHub Banner](https://raw.githubusercontent.com/greigac/greigac/main/imgs/gclogo01.png)](https://www.linkedin.com/in/greigcolliar/) -->
 
 <p align="center">
     <a href="https://greigac.github.io/">
