@@ -20,7 +20,7 @@
 </p> -->
 
 <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greigac&layout=compact&theme=dark&hide_langs_below=1" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greig-colliar&layout=compact&theme=dark&hide_langs_below=1" />
 </p>
 
 > Hi! I'm Greig Colliar, a Honours Degree Computing graduate from University of the Highlands and Islands.
