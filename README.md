@@ -105,7 +105,7 @@ that lack digital skills with providing technical support. I also follow esports
     📝 Learning Constantly
 </h2>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript logoColor=F7DF1E"/>
@@ -119,7 +119,7 @@ that lack digital skills with providing technical support. I also follow esports
   <img alt="AWS"  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Github"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Photoshop"  src="https://aleen42.github.io/badges/src/photoshop.svg"/>
-</p>
+</p> -->
 
 <!---
 greigac/greigac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
