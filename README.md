@@ -101,9 +101,9 @@ that lack digital skills with providing technical support. I also follow esports
     </tbody>
 </table>
 
-<h2 align="left">
+<!-- <h2 align="left">
     📝 Learning Constantly
-</h2>
+</h2> -->
 
 <!-- <p align="center">
   <img alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
