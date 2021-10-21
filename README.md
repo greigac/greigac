@@ -62,7 +62,6 @@ that lack digital skills with providing technical support. I also follow esports
             <td>
                 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
                 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-                <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
                 <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
             </td>
         </tr>
@@ -84,8 +83,7 @@ that lack digital skills with providing technical support. I also follow esports
               </a>
             </td>
             <td>
-              This is my brand new website (version 4) that I have created for myself. It's currently finished on
-              the front-end, but I plan to update the back-end to use Jekyll 4, Ruby and SCSS.
+              This is my brand new website (version 4) that I have created for myself. It's currently finished on the front-end, but I plan to update the back-end to use Jekyll 4, Ruby and SCSS.
             </td>
             <td>
                 <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
