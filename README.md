@@ -46,13 +46,7 @@ that lack digital skills with providing technical support. I also follow esports
             <td>
                 <a href="https://github.com/greigac/">Connect (website)</a>
             </td>
-            <td>This will be a fully dynamic, responsive design website with backend support. Users will be
-            able to create accounts, access features that Connect has to offer, post articles and comments. </td>
-            <td>
-                <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-                <img alt="PHP"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-                <img alt="MySQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-            </td>
+            <td>Connect is a fully dynamic, responsive website application that will be created with the goal to help small local businesses get online. Businesses will be able to post that they're looking for a Web Developer, Marketer etc, and requirements they have. Users will be able to look through a list of businesses needing help and contact them. </td>
         </tr>
         <tr>
             <td>
