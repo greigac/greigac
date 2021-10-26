@@ -46,15 +46,15 @@ that lack digital skills with providing technical support. I also follow esports
             <td>
                 <a href="#">Connect (website)</a>
             </td>
-            <td>Connect is a fully dynamic, responsive website application that will be created with the goal to help small local businesses get online. Businesses will be able to post that they're looking for a Web Developer, Marketer etc, and requirements they have. Users will be able to look through a list of businesses needing help and contact them. </td>
-        </tr>
+            <td>    
+                Connect is a fully dynamic, responsive website application that will be created with the goal to   help small local businesses get online. Businesses will be able to post that they're looking for a Web Developer, Marketer etc, and requirements they have. Users will be able to look through a list of businesses needing help and contact them. 
+            </td>
         <td>
         </td>
+        </tr>
         <tr>
             <td>
-                <a href="https://github.com/greigac/pokemon-react-app">
-                    Pokémon React App
-                </a>
+                <a href="https://github.com/greigac/pokemon-react-app">Pokémon React App</a>
             </td>
             <td>
                 A React app using Node.js and Tailwindcss that returns results of the Pokémon that you have 
@@ -69,7 +69,7 @@ that lack digital skills with providing technical support. I also follow esports
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/greigac/data-visualization-logs-proj">Data Visualization Logs Project/a>
+                <a href="https://github.com/greigac/data-visualization-logs-proj">Data Visualization Logs Project. </a>
             </td>
             <td>
                 A data visualization web application similar to that of WarcrafLogs. Will be created using Next.js, React.js, rpglogs API SDK and Highcharts
