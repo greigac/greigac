@@ -44,7 +44,7 @@ that lack digital skills with providing technical support. I also follow esports
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/greigac/">Connect (website)</a>
+                <a href="#">Connect (website)</a>
             </td>
             <td>Connect is a fully dynamic, responsive website application that will be created with the goal to help small local businesses get online. Businesses will be able to post that they're looking for a Web Developer, Marketer etc, and requirements they have. Users will be able to look through a list of businesses needing help and contact them. </td>
         </tr>
@@ -78,16 +78,14 @@ that lack digital skills with providing technical support. I also follow esports
         </tr>
         <tr>
             <td>
-              <a href="https://github.com/greigac/greigac.github.io">
-                My Portfolio website
+              <a href="#">
+                MoonDev Designs (formerly greigac)
               </a>
             </td>
             <td>
-              This is my brand new website (version 4) that I have created for myself. It's currently finished on the front-end, but I plan to update the back-end to use Jekyll 4, Ruby and SCSS.
+              My Web Development/Design website that will be used to offer websites, marketing, seo optimization, social media setup, etc,. Coming soon
             </td>
             <td>
-                <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-                <img alt="Ruby"  src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
             </td>
         </tr>
     </tbody>
