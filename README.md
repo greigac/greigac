@@ -48,6 +48,8 @@ that lack digital skills with providing technical support. I also follow esports
             </td>
             <td>Connect is a fully dynamic, responsive website application that will be created with the goal to help small local businesses get online. Businesses will be able to post that they're looking for a Web Developer, Marketer etc, and requirements they have. Users will be able to look through a list of businesses needing help and contact them. </td>
         </tr>
+        <td>
+        </td>
         <tr>
             <td>
                 <a href="https://github.com/greigac/pokemon-react-app">
