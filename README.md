@@ -54,21 +54,6 @@ that lack digital skills with providing technical support. I also follow esports
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/greigac/pokemon-react-app">Pokémon React App</a>
-            </td>
-            <td>
-                A React app using Node.js and Tailwindcss that returns results of the Pokémon that you have 
-                searched for. Right now it returns the image of the Pokémon, but will have additional results 
-                such as Evolution, Stats, Graphs etc.  
-            </td>
-            <td>
-                <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-                <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-                <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/greigac/data-visualization-logs-proj">Data Visualization Logs Project. </a>
             </td>
             <td>
