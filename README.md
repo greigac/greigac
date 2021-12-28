@@ -63,18 +63,6 @@ that lack digital skills with providing technical support. I also follow esports
                 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
             </td>
         </tr>
-        <tr>
-            <td>
-              <a href="#">
-                MoonDev (formerly greigac)
-              </a>
-            </td>
-            <td>
-              My Web Development/Design website that will be used to offer websites, marketing, seo optimization, social media setup, etc,. Coming soon
-            </td>
-            <td>
-            </td>
-        </tr>
     </tbody>
 </table>
 
