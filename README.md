@@ -57,7 +57,7 @@
 </table>
 
 <!-- <h2 align="left">
-    📝 Learning Constantly
+    📝 Skillset
 </h2> -->
 
 <!-- <p align="center">
