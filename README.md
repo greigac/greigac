@@ -34,23 +34,23 @@
     <tbody>
         <tr>
             <td>
-                <a href="#">Connect (website)</a>
+                <a href="#">Name of Project</a>
             </td>
             <td>    
-                Connect is a fully dynamic, responsive website application that will be created with the goal to   help small local businesses get online. Businesses will be able to post that they're looking for a Web Developer, Marketer etc, and requirements they have. Users will be able to look through a list of businesses needing help and contact them. 
+                Description here
             </td>
         <td>
         </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/greigac/data-visualization-logs-proj">Data Visualization Logs Project. </a>
+                <a href="">Name of Project</a>
             </td>
             <td>
-                A data visualization web application similar to that of WarcrafLogs. Will be created using Next.js, React.js, rpglogs API SDK and Highcharts
+                Description here
             </td>
             <td>
-                <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+                <img alt="React" src=""/>
             </td>
         </tr>
     </tbody>
