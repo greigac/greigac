@@ -18,7 +18,7 @@
         <img src="https://raw.githubusercontent.com/greigac/greigac/main/imgs/social/cv1.png">
     </a>
 </p> -->
-
+<!-->
 <h2 align="left">
     🌱 Projects I am Currently Working On 
 </h2>
