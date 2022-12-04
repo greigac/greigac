@@ -55,7 +55,7 @@
         </tr>
     </tbody>
 </table>
-
+-->
 <!-- <h2 align="left">
     📝 Skillset
 </h2> -->
