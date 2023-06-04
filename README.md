@@ -30,7 +30,7 @@
                 Description here
             </td>
             <td>
-                <img alt="React" src=""/>
+                <img alt="" src=""/>
             </td>
         </tr>
     </tbody>
